@@ -17,7 +17,7 @@ body {
 
 i {
     font-size: 48px;
-    color: #3ab8ad;
+    color: #F6121C;
 }
 
 
@@ -437,8 +437,8 @@ mark {
     border: 1px solid #021a40;
 }
 
-.tintGreen {
-    background: #3ab8ad;
+.tintRed {
+    background: #F6121C;
 }
 
 .tintPurple {
