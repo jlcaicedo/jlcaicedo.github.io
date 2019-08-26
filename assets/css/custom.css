@@ -32,7 +32,7 @@ ul.nav.navbar-nav {
 }
 
 .topicon {
-    color: #f7960b;
+    color: #F6121C;
 }
 
 
@@ -72,11 +72,11 @@ section.section-divider.textdivider.divider4 {
 
 #contact h1,
 h2 {
-    color: #46356e;
+    color: #B40000;
 }
 
 #contact p {
-    color: #46356e;
+    color: #ffffff;
 }
 
 .contact-align {
@@ -137,7 +137,7 @@ ul.nav.navbar-nav {
 }
 
 #boldsharp a:hover {
-    color: #f7960b !important;
+    color: #F6121C !important;
 }
 
 div#boldsharp li {
@@ -147,13 +147,13 @@ div#boldsharp li {
 .footertext p {
     font-weight: 500;
     font-size: 16px;
-    color: #46356e;
+    color: #ffffff;
 }
 
 .footertext span {
     font-weight: 500;
     font-size: 16px;
-    color: #46356e;
+    color: #ffffff;
 }
 
 
@@ -176,7 +176,7 @@ h3.centered.sechead {
     letter-spacing: -1px;
     font-size: 18pt;
     letter-spacing: 1px;
-    color: #F7960F;
+    color: #F6121C;
 }
 
 h3.topicon.sechead {
@@ -257,7 +257,7 @@ h3.topicon.sechead {
 
 .purplesec {
     margin-top: 10px;
-    color: #3fbeb0;
+    color: #ffffff;
     font-weight: bold;
     letter-spacing: -1px;
     font-size: 28px;
@@ -301,7 +301,7 @@ button {
     color: #FFFFFF;
     !important;
     font-weight: 600;
-    background-color: #f7960b !important;
+    background-color: #F6121C !important;
     border-radius: 2px !important;
     margin-top: 20px;
     border-color: transparent !important;
@@ -309,7 +309,7 @@ button {
 
 .btn-mod:hover {
     color: #FFFFFF !important;
-    background-color: #D6830D !important;
+    background-color: #B40000 !important;
     border-color: transparent !important;
     /*margin-top: 47px;*/
 }
@@ -318,7 +318,7 @@ button {
     color: #FFFFFF;
     font-size: 18px;
     font-weight: 600;
-    background-color: #5D4796 !important;
+    background-color: #F6121C !important;
     border-radius: 2px !important;
     border-color: transparent !important;
     width: calc(100% - 180px);
@@ -330,7 +330,7 @@ button {
 .btn-yellow-sm {
     color: #FFFFFF;
     font-weight: 600;
-    background-color: #f7960b !important;
+    background-color: #F6121C !important;
     border-radius: 2px !important;
     border-color: transparent !important;
     float: right;
@@ -338,13 +338,13 @@ button {
 
 .btn-yellow:hover {
     color: #FFFFFF!important;
-    background-color: #34284F !important;
+    background-color: #B40000 !important;
     border-color: transparent !important;
 }
 
 .btn-yellow-sm:hover {
     color: #FFFFFF!important;
-    background-color: #D6830D !important;
+    background-color: #B40000 !important;
     border-color: transparent !important;
 }
 
@@ -448,6 +448,13 @@ mark {
 .tintDark {
     background: #323232;
 }
+.bg-dark {
+    background-color: #343a40!important;
+}
+
+.bg-secondary {
+    background-color: #6c757d!important;
+}
 
 figure {
     box-shadow: 0 15px 35px rgba(50,50,93,.1), 0 5px 15px rgba(0,0,0,.2);
@@ -546,7 +553,7 @@ div#particles-js {
 
 .scroller a {
     font-size: 30pt;
-    color: #f7960b;
+    color: #F6121C;
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
     -webkit-animation-delay: 4s;
@@ -555,11 +562,11 @@ div#particles-js {
 
 .scroller a:hover {
     font-size: 32pt;
-    color: #f7960b;
+    color: #F6121C;
 }
 
 .scroller a:focus {
-    color: #f7960b;
+    color: #F6121C;
 }
 
 
@@ -581,7 +588,7 @@ form {
     text-align-last: center;
     line-height: 25px;
     font-weight: 500;
-    color: #46356e;
+    color: #ffffff;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -617,7 +624,7 @@ textarea {
 [type="submit"] {
     font-family: Arial, Helvetica, sans-serif;
     width: 100%;
-    background: #5D4796;
+    background: #F6121C;
     border-radius: 2px;
     border: 0;
     cursor: pointer;
@@ -631,7 +638,7 @@ textarea {
 }
 
 [type="submit"]:hover {
-    background: #34284F;
+    background: #B40000;
 }
 
 .or {
@@ -915,7 +922,7 @@ screen and (max-device-width:1050px) {
 /* ----- TOOL TIP ----- */
 
 .pop1 .popover {
-    background-color: #F7960B;
+    background-color: #F6121C;
     color: #ffffff;
     min-width: 165px;
     font-size: 12px;
@@ -924,11 +931,11 @@ screen and (max-device-width:1050px) {
 }
 
 .popover.bottom .arrow:after {
-    border-bottom-color: #F7960B;
+    border-bottom-color: #F6121C;
 }
 
 .pop2 .popover {
-    background-color: #F7960B;
+    background-color: #F6121C;
     color: #ffffff;
     min-width: 155px;
     font-size: 11px;
@@ -967,7 +974,7 @@ screen and (max-device-width:1050px) {
 }
 
 .article-link a:hover {
-    color: #f7960b !important;
+    color: #F6121C !important;
     /*text-decoration: underline;*/
 }
 
@@ -1010,7 +1017,7 @@ screen and (max-device-width:1050px) {
 }
 
 .modal-content-style a:hover {
-    color: #f7960b;
+    color: #F6121C;
 }
 
 .modal-body-text {
@@ -1040,7 +1047,7 @@ screen and (max-device-width:1050px) {
 
 .modal-text a:hover {
     text-align: justify;
-    color: #f7960b;
+    color: #F6121C;
 }
 
 .modal-links a {
@@ -1104,7 +1111,7 @@ transition: all 0.2s;
 }
 
 .soon {
-    color: #46356e;
+    color: #ffffff;
     font-size: 13px;
 }
 

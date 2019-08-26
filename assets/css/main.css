@@ -30,7 +30,7 @@ body {
 }
 
 ::selection {
-    background: #f7960b;
+    background: #F6121C;
     color: #ffffff;
     text-shadow: none;
 }
@@ -270,7 +270,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #f7960b;
+    color: #F6121C;
     text-decoration: none;
     outline: 0;
 }
@@ -328,7 +328,7 @@ a:after {
 }
 
 .headerwrap p {
-    color: #F6121C;
+    color: #B40000;
     font-size: 35px;
     font-weight: 400;
     text-align: center;
@@ -371,7 +371,7 @@ a:after {
     margin-bottom: 10px;
 }
 
-#purplewrap {
+/*#purplewrap {
     background: -moz-linear-gradient(90deg, #5D4796 0%, #463570 100%);
     /* ff3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #463570), color-stop(100%, #5D4796));
@@ -392,7 +392,7 @@ a:after {
     /*    -webkit-box-shadow: 0px 0px 67px 36px rgba(3,10,18,1);
     -moz-box-shadow: 0px 0px 67px 36px rgba(3,10,18,1);
     box-shadow: 0px 0px 67px 36px rgba(3,10,18,1);*/
-}
+}*/
 
 
  #purplewrap .callout {
@@ -414,23 +414,23 @@ a:after {
 }
 
 
-#yellowwrap {
+/*#yellowwrap {
     padding-top: 40px;
-    background: -moz-linear-gradient(90deg, #42CFC3 0%, #F6121C 100%);
+    background: -moz-linear-gradient(90deg, #F6121C 0%, #F6121C 100%);
     /* ff3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #F6121C), color-stop(100%, #42CFC3));
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #F6121C), color-stop(100%, #F6121C));
     /* safari4+,chrome */
-    background: -webkit-linear-gradient(90deg, #42CFC3 0%, #F6121C 100%);
+    background: -webkit-linear-gradient(90deg, #F6121C 0%, #F6121C 100%);
     /* safari5.1+,chrome10+ */
-    background: -o-linear-gradient(90deg, #42CFC3 0%, #F6121C 100%);
+    background: -o-linear-gradient(90deg, #F6121C 0%, #F6121C 100%);
     /* opera 11.10+ */
-    background: -ms-linear-gradient(90deg, #42CFC3 0%, #F6121C 100%);
+    background: -ms-linear-gradient(90deg, #F6121C 0%, #F6121C 100%);
     /* ie10+ */
-    background: linear-gradient(0deg, #42CFC3 0%, #F6121C 100%);
+    background: linear-gradient(0deg, #F6121C 0%, #F6121C 100%);
     /* w3c */
-    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#F6121C', endColorstr='#42CFC3', GradientType=0);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#F6121C', endColorstr='#F6121C', GradientType=0);
     /* ie6-9 */
-}
+}*/
 
 #yellowwrap .callout {
     margin-bottom: 20px;
